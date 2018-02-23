@@ -1,5 +1,6 @@
 # Declan Reidy - is it Tuesday - 23-02-2018
 
+
 import datetime
 
 if datetime.datetime.today().weekday() == 1:
