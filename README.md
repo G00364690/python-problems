@@ -1,5 +1,5 @@
 # Python Problems 2018
-Python problems for module Programming and Scripting 2018
+Python problems for GMIT module in Programming and Scripting as part of Higher Diploma in Data Analytics
 
 ## To use and test my various coding exercises:
 1. Download & Install Anaconda
