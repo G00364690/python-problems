@@ -9,8 +9,8 @@ Python problems for GMIT module in Programming and Scripting as part of Higher D
 
 ## The attached exercises have been created and refined several times over the past 10 weeks
 
-Exercises 1 and 2 are submitted together and deal with the Fibonacci series assignments
-Exercise 3 is my proof of the Collatz conjecture
-Exercise 4 is my solution to Euler problem 5
-Exercise 5 is my solution to the formatting exercise on the iris data file
-Exercise 6 is my defined function to produce factorials
+1. Exercises 1 and 2 are submitted together and deal with the Fibonacci series assignments
+2. Exercise 3 is my proof of the Collatz conjecture
+3. Exercise 4 is my solution to Euler problem 5
+4. Exercise 5 is my solution to the formatting exercise on the iris data file
+5. Exercise 6 is my defined function to produce factorials
